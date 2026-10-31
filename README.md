@@ -1,4 +1,3 @@
-# Graded Assignment 3 – Week 4
 ## Click Count Analysis Using Google Cloud Dataproc and PySpark
 
 ### 1. Project Overview
